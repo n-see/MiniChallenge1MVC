@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Level1MiniChallenge1MVC.props" />
+</Project>
